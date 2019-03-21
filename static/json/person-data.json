@@ -1,0 +1,83 @@
+{
+  "article":[
+    {
+      "articleId":1,
+      "articleTitle":"全部专栏",
+      "class":"客服中心",
+      "isclassName":" 网站公告",
+      "classNameid":" 网站公告[分类ID:1][系统分类]",
+      "classSort":1,
+      "isOpen":"公开",
+      "isSpeak":"X",
+      "Nickname":"test001",
+      "isSupport":[
+        {
+          "yes":1
+        },{
+          "no":1
+        }
+      ],
+      "speakContent":[
+        {
+          "title":"《支付方式》"
+        },{
+          "message":"阿斯顿发斯蒂芬3333"
+        }
+      ],
+      "isShow":"√",
+      "examine":"审核",
+      "lookNum":99,
+      "sortNum":99,
+      "time":"2018-07-30  21:30",
+      "openTime":"2018-07-30  21:30",
+      "delTime":"2018-07-30  21:30",
+      "operation":
+          {
+            "edit":"编辑",
+            "del":"删除",
+            "add":"添加",
+            "reduction":"还原"
+          }
+
+    },{
+      "articleId":1,
+      "articleTitle":"全部专栏",
+      "class":"客服中心",
+      "isclassName":" 网站公告",
+      "classNameid":" 网站公告[分类ID:1][系统分类]",
+      "classSort":1,
+      "isOpen":"公开",
+      "isSpeak":"X",
+      "Nickname":"test001",
+      "isSupport":[
+        {
+          "yes":1
+        },{
+          "no":1
+        }
+      ],
+      "speakContent":[
+        {
+          "title":"《支付方式》"
+        },{
+          "message":"阿斯顿发斯蒂芬3333"
+        }
+      ],
+      "isShow":"√",
+      "examine":"审核",
+      "lookNum":99,
+      "sortNum":99,
+      "time":"2018-07-30  21:30",
+      "openTime":"2018-07-30  21:30",
+      "delTime":"2018-07-30  21:30",
+      "operation":
+      {
+        "edit":"编辑",
+        "del":"删除",
+        "add":"添加",
+        "reduction":"还原"
+      }
+
+    }
+  ]
+}

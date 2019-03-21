@@ -1,0 +1,120 @@
+
+/* 右边内容 */
+
+.frame-right{
+    width: 100%;
+}
+/* 内容头部 */
+.main-header{
+    height:39px;
+    border-bottom: 1px solid #e5e5e5;
+    background-color: #f5f5f5;
+    line-height: 39px;
+    padding-left: 4px;
+    color: #646464;
+    display: flex;
+    align-items: center;
+}
+.main-header img{
+    width: 20px;
+    height: 20px;
+    margin-right: 4px;
+    margin-top: -4px;
+}
+.main-header a{
+    margin-left: 8px;
+    color: #646464;
+    height: 40px;
+    background-position: 100px 100px;
+}
+.main-header i{
+    width: 10px;
+    height: 40px;
+    margin-left: 4px;
+    margin-right: 4px;
+    background-position: -190px -292px;
+    background-image: url(/static/img/frame-icons.png);
+    background-repeat: no-repeat;
+}
+
+/* 内容列表 */
+.con{
+    padding: 0 10px;
+}
+.main-list{
+    width: 100%;
+
+}
+.search{
+    margin: 8px 0px;
+    padding: 4px 0px 8px 0px;
+    border-bottom: 1px dotted #E2E2E2;
+}
+.row{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.main-list input[type="text"]{
+    height: 26px;
+    border: 1px solid #aaa;
+    border-radius: 3px;
+    padding-left: 2px;
+    margin-right: 3px;
+}
+.width-100{
+    width: 120px;
+}    
+.main-list input[type="button"]{
+    height: 26px;
+    border: 1px solid #2e6da4;
+    background: #337ab7;
+    color: #FFF;
+    border-radius: 3px;
+    margin-right: 4px;
+    padding: 1px 6px;
+}
+select{
+    padding: 2px 0;
+}
+.row-top{
+    margin-top: 10px;
+}
+.main-list table{
+    width:100%;
+    border-collapse: collapse;
+}
+.main-list table th{
+    border: 1px solid #ddd;
+    border-bottom: 2px solid #ddd;
+    font-weight: 700;
+    background: #F2F2F2;
+    vertical-align: middle;
+    color: #707070;
+    padding-left: 5px;
+    padding-right:5px;
+    background-image: -webkit-linear-gradient(top,#F8F8F8 0,#ECECEC 100%);
+    text-align: left;
+    line-height: 36px;
+}
+.main-list table td{
+    border: 1px solid #ddd;
+    font-size: 13px;
+    padding-left: 5px;
+    padding-right:5px;
+    line-height: 36px;
+}
+.main-list a{
+    color: #198cb7;
+}
+.main-list a:hover{
+    text-decoration: underline;
+    }
+.main-list table tr:hover {
+    background: #F5F9FA;
+}
+.list-page{
+    text-align: right;
+    border-bottom: 1px solid #e0e0e0;
+    padding: 12px 6px;
+    background-color: #EFF3F8;
+}

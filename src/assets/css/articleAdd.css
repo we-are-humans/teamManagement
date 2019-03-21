@@ -1,0 +1,199 @@
+aside{
+	width: 188px;
+	height: 1000px;
+	float: left;
+}
+.articleAdd{
+	float: left;
+}
+/*header*/
+.articleAdd header{
+	/*width: 100%;*/
+	height: 39px;
+	background: #f5f5f5;
+	line-height: 39px;
+	border-bottom: 1px solid #e5e5e5;
+}
+.articleAdd header h4{
+	margin-left: 10px;
+	font-size: 10px;
+	color: #bfb9ae;
+	font-weight: 500;
+	
+}
+.articleAdd header h4 img{
+	width: 20px;
+	height:20px ;
+	display: inline-block;
+	margin-left: 4px;
+	margin-right: 11px;
+	vertical-align: middle;
+}
+.articleAdd header h4 span{
+	font-size: 14px;
+	color: #646464;
+}
+/*top*/
+.articleAdd .top{
+	width: 100%;
+	height: 46px;
+	line-height: 46px;
+	background: white;
+}
+.articleAdd .top p{
+	font-size:14px ;
+	color:#333333 ;
+	text-indent: 9px;width: 100%;
+	border-bottom: 1px dashed #d4d4d4;
+}
+.articleAdd .top p a:hover{
+  background: #eeeeee;
+}
+.articleAdd .top p a{
+	width: 94px;
+	height: 43px;
+	color: #555555;
+	background: white;
+	font-size: 16px;
+	border-radius: 3px;
+	/*border: 1px solid #dddddd;*/
+	border-bottom: none;
+  margin-right: 10px;
+}
+.articleAdd .top p:last-child{
+	margin-top: 20px;
+	border-bottom: none;
+}
+.articleAdd .top p:last-child button{
+	background: #337ab7;
+	font-size: 12px;
+	color: white;
+	border: 1px solid #2e6da4;
+	border-radius: 2px;
+	width: 108px;
+  height: 46px;
+  margin-left: 130px;
+}
+.articleAdd .top .content{
+	/*display: none;*/
+}
+.articleAdd .top .content p:nth-child(2) input{
+	margin-left: 6px;
+	width: 13px;
+	height: 13px;
+}
+.articleAdd .top .content p:nth-child(4){
+	text-indent: 28px;
+}
+.articleAdd .top .content p:nth-child(5){
+	text-indent: 14px;
+}
+.articleAdd .top .content p span{
+	color: #aaaaaa;
+	background: white;
+	font-size: 12px;
+	padding: 8px;
+}
+.articleAdd .top .content p input{
+	text-indent: 6px;
+	width: 500px;
+	height: 24px;
+	border-radius: 2px;
+	border: 1px solid #aaaaaa;
+}
+.articleAdd .top .content p select{
+	height: 21px;
+	border: 1px solid #7a7a7a;
+}
+.articleAdd .top .content p button{
+	background: #337ab7;
+	font-size: 12px;
+	color: white;
+	border: 1px solid #2e6da4;
+	border-radius: 2px;
+}
+.articleAdd .top .content p:last-child{
+	border-bottom: none;
+}
+.articleAdd .top .content p textarea{
+	text-indent: 28px;
+	min-width: 1120px;
+	max-width: 1120px;  
+	min-height: 100px; 
+	margin-right: 10px;
+}
+
+.articleAdd .top .message{
+	/*display: block;*/
+	/*display: none;*/
+}
+.articleAdd .top .message p input{
+	height: 28px;
+}
+.articleAdd .top .message p:nth-child(1) input{
+	width: 300px;
+}
+.articleAdd .top .message p:nth-child(2) input{
+	margin-left: 6px;
+	width: 120px;
+}
+.articleAdd .top .message p:nth-child(3) input,.articleAdd .top .message p:nth-child(4) input,.articleAdd .top .message p:nth-child(5) input{
+	margin-left: 6px;
+	width: 13px;
+	height: 13px;
+	-webkit-appearance: radio;
+}
+.articleAdd .top .message p:nth-child(6) input,.articleAdd .top .message p:nth-child(7) input,.articleAdd .top .message p:nth-child(8) input,.articleAdd .top .message p:nth-child(9) input{
+	width: 60px;
+}
+.articleAdd .top .message p:nth-child(10) input{
+	width: 26px;
+}
+.articleAdd .top .message p:nth-child(2){
+	text-indent: 28px;
+}
+.articleAdd .top .message p:nth-child(5){
+	text-indent: 28px;
+}
+.articleAdd .top .message p:nth-child(6){
+	text-indent: 28px;
+}
+.articleAdd .top .message p:nth-child(10){
+	text-indent: 14px;
+}
+.articleAdd .top .message p:nth-child(11){
+	text-indent: 28px;
+	text-align: center;
+}
+.articleAdd .top .message p span{
+	color: #aaaaaa;
+	background: white;
+	font-size: 12px;
+	padding: 8px;
+}
+.articleAdd .top .message p input{
+	text-indent: 6px;
+	height: 24px;
+	border-radius: 2px;
+	border: 1px solid #aaaaaa;
+}
+.articleAdd .top .message p select{
+	height: 21px;
+	border: 1px solid #7a7a7a;
+}
+.articleAdd .top .message p button{
+	background: #337ab7;
+	font-size: 12px;
+	color: white;
+	border: 1px solid #2e6da4;
+	border-radius: 2px;
+}
+.articleAdd .top .message p textarea{
+	margin-top: 20px;
+	vertical-align: top;
+	text-indent: 28px;
+  min-width: 1070px;
+  max-width: 1070px;
+  min-height: 100px;
+	margin-right: 10px;
+}

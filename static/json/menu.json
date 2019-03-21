@@ -1,0 +1,213 @@
+{
+  "list": [
+    {
+      "id": "000",
+      "namee": "管理首页",
+      "img": "/static/img/icon-home.gif",
+      "ming":"cpmRight01"
+    },
+    {
+      "id": "001",
+      "namee": "商品管理",
+      "img": "/static/img/icon-competer.gif",
+      "children": [
+        {
+          "child": "商品列表",
+          "ming":"cpmRight10"
+        },
+        {
+          "child": "添加商品",
+          "ming":"cpmRight11"
+        },
+        {
+          "child": "商品回收站",
+          "ming":"cpmRight12"
+        },
+        {
+          "child": "商品分类",
+          "ming":"cpmRight13"
+        },
+        {
+          "child": "商品评论管理",
+          "ming":"cpmRight14"
+        },
+        {
+          "child": "品牌管理",
+          "ming":"cpmRight15"
+        },
+        {
+          "child": "积分商品",
+          "ming":"cpmRight16"
+        }
+      ]
+    },
+    {
+      "id": "002",
+      "namee": "文章管理",
+      "img": "/static/img/icon-article.gif",
+      "children": [
+        {
+          "child": "文章列表",
+          "ming":"cpmRight20"
+        },
+        {
+          "child": "添加文章",
+          "ming":"cpmRight21"
+        },
+        {
+          "child": "文章回收站",
+          "ming":"cpmRight22"
+        },
+        {
+          "child": "文章分类",
+          "ming":"cpmRight23"
+        },
+        {
+          "child": "文章评论",
+          "ming":"cpmRight24"
+        }
+      ]
+    },
+    {
+      "id": "003",
+      "namee": "订单管理",
+      "img": "/static/img/icon-order.gif",
+      "children": [
+        {
+          "child": "订单列表",
+          "ming":"cpmRight30"
+        },
+        {
+          "child": "配货管理",
+          "ming":"cpmRight31"
+        },
+        {
+          "child": "发货管理",
+          "ming":"cpmRight32"
+        },
+        {
+          "child": "售后管理",
+          "ming":"cpmRight33"
+        }
+      ]
+    },
+    {
+      "id": "004",
+      "namee": "会员管理",
+      "img": "/static/img/icon-users.png",
+      "children": [
+        {
+          "child": "会员信息管理",
+          "ming":"cpmRight40"
+        },
+        {
+          "child": "会员等级管理",
+          "ming":"cpmRight41"
+        },
+        {
+          "child": "留言管理",
+          "ming":"cpmRight42"
+        }
+      ]
+    },
+    {
+      "id": "005",
+      "namee": "广告管理",
+      "img": "/static/img/icon-direct.gif",
+      "children": [
+        {
+          "child": "广告位管理",
+          "ming":"cpmRight50"
+        },
+        {
+          "child": "广告内容管理",
+          "ming":"cpmRight51"
+        }
+      ]
+    },
+    {
+      "id": "006",
+      "namee": "专题活动",
+      "img": "/static/img/icon-star.gif",
+      "children": [
+        {
+          "child": "活动列表",
+          "ming":"cpmRight60"
+        },
+        {
+          "child": "新建活动",
+          "ming":"cpmRight61"
+        }
+      ]
+    },
+    {
+      "id": "007",
+      "namee": "统计报表",
+      "img": "/static/img/icon-count.gif",
+      "children": [
+        {
+          "child": "订单统计",
+          "ming":"cpmRight70"
+        },
+        {
+          "child": "用户统计",
+          "ming":"cpmRight71"
+        }
+      ]
+    },
+    {
+      "id": "008",
+      "namee": "链接管理",
+      "img": "/static/img/icon-link.gif",
+      "children": [
+        {
+          "child": "链接列表",
+          "ming":"cpmRight80"
+        },
+        {
+          "child": "添加列表",
+          "ming":"cpmRight81"
+        }
+      ]
+    },
+    {
+      "id": "009",
+      "namee": "系统管理",
+      "img": "/static/img/icon-global.gif",
+      "children": [
+        {
+          "child": "系统配置",
+          "ming":"cpmRight90"
+        },
+        {
+          "child": "配送方式",
+          "ming":"cpmRight91"
+        },
+        {
+          "child": "地区管理",
+          "ming":"cpmRight92"
+        },
+        {
+          "child": "导航管理",
+          "ming":"cpmRight93"
+        },
+        {
+          "child": "操作员管理",
+          "ming":"cpmRight94"
+        },
+        {
+          "child": "角色管理",
+          "ming":"cpmRight95"
+        },
+        {
+          "child": "菜单管理",
+          "ming":"cpmRight96"
+        },
+        {
+          "child": "支付方式",
+          "ming":"cpmRight97"
+        }
+      ]
+    }
+  ]
+}

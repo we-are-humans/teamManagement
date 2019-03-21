@@ -1,0 +1,127 @@
+
+body,p,dl,dd,ul,ol,li,div,h1,h2,h3,h4,h5,h6,form,input,table,tr,td,span,img{
+  margin:0;
+  padding:0;
+}
+a{
+  text-decoration: none;
+  color: #333;
+}
+ul,li,input,select,option,div{
+  text-decoration: none;
+  list-style: none;
+  box-sizing: border-box;
+}
+input{
+  border-color:white ;
+  border-style: none;
+}
+body{
+  position: relative;
+  font-size: 14px;
+  font-family: "微软雅黑";
+}
+*{
+  box-sizing: border-box;
+}
+input[type="button"]{
+  height: 26px;
+  border: 1px solid #2e6da4;
+  background: #337ab7;
+  color: #FFF;
+  padding: 1px 6px;
+}
+
+input[type="text"] {
+  height: 26px;
+  border: 1px solid #aaa;
+  border-radius: 3px;
+  padding-left: 2px;
+  margin-right: 3px;}
+select{
+  height: 23px;
+}
+.cont{
+  padding: 0px 10px;
+  width: 100%;
+  margin: 8px 0px;
+  display: inline-block;
+}
+.search {
+  margin: 8px 0px;
+  padding: 4px 0px 8px 0px;
+  border-bottom: 1px dotted #E2E2E2;
+}
+.width-100 {
+  width: 120px;
+}
+
+table {
+  background-color: transparent;
+}
+table {
+  border-spacing: 0;
+  border-collapse: collapse;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+table th {
+  border: 1px solid #ddd;
+  border-bottom: 2px solid #ddd;
+  font-weight: 700;
+  background: #F2F2F2;
+  vertical-align: middle;
+  height: 40px;
+  color: #707070;
+  padding-left: 5px;
+  padding-right: 5px;
+  background-image: -webkit-linear-gradient(top,#F8F8F8 0,#ECECEC 100%);
+}
+label {
+  display: inline-block;
+  max-width: 100%;
+  margin-bottom: 5px;
+  font-weight: 700;
+}
+
+input[type=checkbox], input[type=radio] {
+  margin: 4px 0 0;
+  margin-top: 1px\9;
+  line-height: normal;
+}
+
+ table td {
+  border: 1px solid #ddd;
+  height: 40px;
+  font-size: 13px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+table td img {
+
+  height:24px;
+  width:auto;
+}
+.yes {
+  color: #4cb549;
+}
+
+ a {
+  color: #198cb7;
+}
+
+.list-page {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  border-bottom: 1px solid #e0e0e0;
+  padding: 12px 6px;
+  background-color: #EFF3F8;
+}
+.lll{
+  display: flex;
+  align-items: center;
+}
